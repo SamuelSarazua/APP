@@ -1,0 +1,36 @@
+.iconos {
+    width: 383px;
+    height: 52px;
+    padding: 0px 16px 0px 16px;
+    
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rojo {
+    width: 6px;
+    height: 2px;
+    border-radius: 4px;
+
+    background-color: #EB4D57;
+    border: 1px solid #EB4D57;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home {
+    margin-left: -2px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6px;
+}
+
+.orders {
+    margin-inline: 2px;
+}

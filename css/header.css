@@ -1,0 +1,76 @@
+.rectangulo1 {
+    width: 375px;
+    height: 44px;
+    padding: 8px 20px 8px 20px;
+}
+
+.rectangulo2 {
+    width: 375px;
+    height: 56px;
+    gap: 12px;
+    padding: 8px 20px 8px 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rectangulo3 {
+    width: 375px;
+    height: 48px;
+    padding: 8px 20px 8px 20px;
+    gap: 8px;
+
+    display: flex;
+    align-items: center;
+}
+
+.titulo {
+    font-size: 30px;
+}
+
+.search {
+}
+
+.cuadritos1 {
+    width: 106.33px;
+    height: 32px;
+    padding: 6px 12px 6px 12px;
+    gap: 8px;
+    border-radius: 24px;
+    background-color: beige;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadritos2 {
+    width: 106.33px;
+    height: 32px;
+    padding: 6px 12px 6px 12px;
+    gap: 8px;
+    border-radius: 24px;
+    background-color: #EB4D57;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cuadritos3 {
+    width: 106.33px;
+    height: 32px;
+    padding: 6px 12px 6px 12px;
+    gap: 8px;
+    border-radius: 24px;
+    border: 1px 0px 0px 0px;
+    background-color: beige;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

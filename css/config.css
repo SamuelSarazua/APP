@@ -1,0 +1,16 @@
+html {
+    font-family: monospace;
+}
+
+.pantalla {
+    max-width: 72rem;
+    margin: auto;
+    padding: rem;
+}
+
+@media only screen and (max-width: 720px) {
+    .pantalla {
+        max-width: 72rem;
+        padding: rem rem;
+    }
+}

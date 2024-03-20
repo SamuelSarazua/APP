@@ -1,0 +1,120 @@
+.menu {
+    width: 375px;
+    height: 548px;
+    top: 156px;
+    padding: 20px;
+    gap: 16px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.otros {
+    width: 335px;
+    height: 28px;
+    color:#6D5758;
+    margin-top: -15px;
+
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.caja {
+    width: 335px;
+    height: 464px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 24px;
+}
+
+.menus {
+    width: 335px;
+    height: 98px;
+    gap: 16px;
+    border-radius: 12px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulito {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.titulito2 {
+    color: #949494;
+}
+
+.cuadritito {
+    width: 68px;
+    height: 22px;
+    padding: 4px 8px 4px 8px;
+    gap: 4px;
+    border-radius: 8px;
+
+    background-color: #C3E8D8;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fecha {
+    color: #949494;
+
+}
+
+.precio {
+    font-size: 15px;
+    margin-top: -60px;
+    padding-right: 5px;
+    color:  #C34753;    
+}
+
+.cuadritito2 {
+    width: 68px;
+    height: 22px;
+    padding: 4px 8px 4px 8px;
+    gap: 4px;
+    border-radius: 8px;
+    background-color: #F6D1D1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.precio2 {
+    font-size: 12.5px;
+    margin-top: -60px;
+    padding-right: 5px;
+    color:  #C34753;    
+}
+
+.imagen2 img {
+    border-radius: 12px;
+}
+
+.imagen3 img {
+    border-radius: 12px;
+}
+
+.imagen4 img {
+    border-radius: 12px;
+}
